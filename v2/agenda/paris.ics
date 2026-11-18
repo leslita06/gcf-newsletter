@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Galerie Cecile Fakhoury//Lettre//FR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:paris-2026@cecilefakhoury.com
+DTSTAMP:20261118T080000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20270405
+SUMMARY:Violence silencieuse · Under the gaze of Roméo Mivekannin
+LOCATION:Musée du quai Branly – Jacques Chirac\, Paris
+URL:https://cecilefakhoury.com/events/537/
+END:VEVENT
+END:VCALENDAR

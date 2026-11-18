@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Galerie Cecile Fakhoury//Lettre//FR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:dakar-2026@cecilefakhoury.com
+DTSTAMP:20261118T080000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261220
+SUMMARY:Lu Nëbtu · Kassou Seydou
+LOCATION:Sokhamon\, Dakar
+URL:https://cecilefakhoury.com/exhibitions/131-lu-nebtu-kassou-seydou-sokhamon-hotel-dakar/overview/
+END:VEVENT
+END:VCALENDAR

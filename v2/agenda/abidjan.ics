@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Galerie Cecile Fakhoury//Lettre//FR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:abidjan-2026@cecilefakhoury.com
+DTSTAMP:20261118T080000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270110
+SUMMARY:Dieu n'est pas obligé · Roméo Mivekannin
+LOCATION:Galerie Cécile Fakhoury\, Boulevard Latrille\, Cocody\, Abidjan
+URL:https://cecilefakhoury.com/exhibitions/130-dieu-nest-pas-oblige-romeo-mivekannin-abidjan/overview/
+END:VEVENT
+END:VCALENDAR
